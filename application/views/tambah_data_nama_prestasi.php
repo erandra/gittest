@@ -1,7 +1,7 @@
 <div class="row">
 	<div class="col-lg-12">
 		<div class="panel panel-default">
-			<div class="panel-heading">PLUS Sub Kategori</div>
+			<div class="panel-heading">Tambah Sub Kategori</div>
 			<div class="panel-body">
 				<div class="col-md-6">
 					<form role="form" action="" method="post">
