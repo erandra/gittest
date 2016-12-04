@@ -70,7 +70,7 @@ function showNamaPrestasi(str) { /** namanya (shownamaprestasi) digunakan pada o
 						
 							<form role="form" action="" method="post">
 								<div class="form-group">
-									<label>Prestasi Kategori</label>
+									<label>msdgfhsdfjghfjkghfjkghegjkghjk Kategori</label>
 									<select  class="form-control" 
 									 name="kategori1" onchange="showKategori(this.value)" >
 									 <option value="">- Pilih Kategori -</option>
