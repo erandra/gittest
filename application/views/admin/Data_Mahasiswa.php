@@ -2,7 +2,7 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="panel panel-default">
-					<div class="panel-heading">Data Mahasiswa</div>
+					<div class="panel-heading"><h1>Data Mahasiswa</h1></div>
 					<div class="panel-body">
 						<a class='btn btn-primary' href="<?php echo base_url();?>index.php/Data_Mahasiswa/tambah_data_mahasiswa/">Tambah</a>
 			    <br/><br/>
