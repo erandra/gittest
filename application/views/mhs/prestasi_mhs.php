@@ -73,7 +73,7 @@ function showNamaPrestasi(str) { /** namanya (shownamaprestasi) digunakan pada o
 									<label>Kategori Prestasi</label>
 									<select  class="form-control" 
 									 name="kategori1" onchange="showKategori(this.value)" >
-									 <option value="">Pilih Kategori</option>
+									 <option value="">- Pilih Kategori -</option>
 									 <?php
 									 	foreach($prestasi as $kp){
 									 		echo "<option value='$kp[id_prestasi]'>
