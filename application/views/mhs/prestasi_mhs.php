@@ -51,7 +51,7 @@ function showNamaPrestasi(str) { /** namanya (shownamaprestasi) digunakan pada o
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="panel panel-default">
-					<div class="panel-heading">Tambah Prestasi Mahasiswa <?php
+					<div class="panel-heading">plus Prestasi Mahasiswa <?php
 					$no=1;
 			    	foreach($data_mhs_prestasi as $d): 
 			    		if($_SESSION['username']==$d['nim'] && $no<2){
